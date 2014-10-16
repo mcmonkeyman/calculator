@@ -1,0 +1,21 @@
+[0m[[0minfo[0m] [0mBcSpec[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37mprocessInput should[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m process addition[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m process subtraction[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m process multiplication[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m process division[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m process division for two negative numbers[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m process multiple operations[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m respect operator precedence[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m should round correctly for division[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m should handle decimals[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m should handle decimals smaller than one[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m should work with negative numbers[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m not choke on spaces[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m should divide by zero correctly[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[32m+[0m should throw error on invalid input[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0mTotal for specification BcSpec[0m
+[0m[[0minfo[0m] [0m[36mFinished in 39 ms[0m[0m
+[0m[[0minfo[0m] [0m[36m[0m[36m14 examples, 0 failure, 0 error[0m[0m
