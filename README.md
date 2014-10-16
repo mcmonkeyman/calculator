@@ -1,13 +1,15 @@
-Simple version of basic calculator.
+Basic calculator.
 ===========
 
 About
 -----------
 Supports the basic operators: addition, subtraction, division and multiplication (+,-,/,*).
 Should respect the following operator precedence (higer level has highest precedence):
-  + and - (level1)
-  * and / (level2)
-Operators at the same level will be read from left to right. 
+
+  + Addition and subtraction are level 1.
+  + Mutliplication and dicision are level 2.
+  
+Operators at the same level will be read from left to right.
 
 Build
 -----------
