@@ -1,8 +1,0 @@
-<com.novus.bc.BcSpec-stats timestamp="1410635395596"><stats time="40" expectations="14" successes="14" examples="14"></stats></com.novus.bc.BcSpec-stats>
-<com.novus.bc.BcSpec-stats timestamp="1411566673462"><stats time="31" expectations="14" successes="14" examples="14"></stats></com.novus.bc.BcSpec-stats>
-<com.novus.bc.BcSpec-results timestamp="1411566694990"><result location="com.novus.bc.BcSpec (BcSpec.scala:22)" id="370712140"><stats time="57" expectations="1" errors="1" examples="1"></stats></result>
-</com.novus.bc.BcSpec-results>
-<com.novus.bc.BcSpec-stats timestamp="1411566694998"><stats time="24" expectations="14" errors="1" successes="13" examples="14"><trend><stats time="24" errors="1" successes="-1"></stats></trend></stats></com.novus.bc.BcSpec-stats>
-<com.novus.bc.BcSpec-stats timestamp="1411566757655"><stats time="32" expectations="14" successes="14" examples="14"><trend><stats time="32" errors="-1" successes="1"></stats></trend></stats></com.novus.bc.BcSpec-stats>
-<com.novus.bc.BcSpec-stats timestamp="1411567245905"><stats time="32" expectations="14" successes="14" examples="14"></stats></com.novus.bc.BcSpec-stats>
-<com.novus.bc.BcSpec-stats timestamp="1411567293660"><stats time="39" expectations="14" successes="14" examples="14"></stats></com.novus.bc.BcSpec-stats>
