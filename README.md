@@ -1,7 +1,7 @@
 # Calculator
 
 This project provides a basic calculator that supports ths following operations:
-addition, subtraction, division and multiplication (+,-,/,*).
+addition, subtraction, division and multiplication (+, -, /, *).
 
 # Package
 ```
