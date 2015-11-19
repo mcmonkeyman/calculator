@@ -1,35 +1,33 @@
-Basic calculator.
-===========
+# Basic calculator
 
-About
------------
 Supports the basic operators: addition, subtraction, division and multiplication (+,-,/,*).
 Should respect the following operator precedence (higer level has highest precedence):
 
   + Addition and subtraction are level 1.
   + Mutliplication and dicision are level 2.
-  
+
 Operators at the same level will be read from left to right.
 
-Build
------------
-From root directory:
-  sbt one-jar
+# Package
+```
+sbt one-jar
+```
 
-Run
------------ 
-From root directory:
-  sbt "run 1-2+3"
-    or
-  java -jar ./target/scala-2.10/bc_2.10-1.0-one-jar.jar "1+1"
+# Run
+```
+sbt "run 1-2+3"
+```
+OR
+```
+java -jar ./target/scala-2.10/bc_2.10-1.0-one-jar.jar "1+1"
+```
 
-Test
------------
-From root directory:
-  sbt test
+# Test
+```
+sbt test
+```
 
-Versions
------------
+# Versions
 sbtVersion 0.13.0
 scala 2.10.4
 
