@@ -1,5 +1,6 @@
-package com.novus.bc
-import Operator._
+package ie.eoin.sample.calculator
+
+import ie.eoin.sample.calculator.Operator._
 
 object Bc {
   val number = """(\-?\d*\.?\d+)""".r

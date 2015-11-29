@@ -1,7 +1,7 @@
-# Basic Calculator
+# Calculator
 
-This project provides a bais calculator that supports ths following operations:
-addition, subtraction, division and multiplication (+,-,/,*).
+This project provides a basic calculator that supports ths following operations:
+addition, subtraction, division and multiplication (+, -, /, *).
 
 # Package
 ```

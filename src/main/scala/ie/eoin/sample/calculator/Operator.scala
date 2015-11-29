@@ -1,4 +1,4 @@
-package com.novus.bc
+package ie.eoin.sample.calculator
 
 object Operator extends Enumeration {
   val Addition = createOperatorValue("+")

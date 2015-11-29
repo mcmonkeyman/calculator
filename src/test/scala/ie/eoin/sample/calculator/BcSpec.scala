@@ -1,5 +1,6 @@
-package com.novus.bc
-import org.specs2.mutable.Specification
+package ie.eoin.sample.calculator
+
+import org.specs2.mutable._
 
 class BcSpec extends Specification{
   "processInput" should {
